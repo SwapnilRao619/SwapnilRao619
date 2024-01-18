@@ -34,6 +34,9 @@
   <a href="https://open.spotify.com/artist/3HzumCrfTfqCV2tdnOALhX" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-333333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank" />
   </a>
+<a href="https://www.reddit.com/user/SwapnilRao619" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-333333?style=for-the-badge&logo=reddit&logoColor=orange" target="_blank" />
+  </a>
 </div>
 
  <hr/>
