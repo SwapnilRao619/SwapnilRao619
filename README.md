@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🌱 I’m currently learning **ReactJS and Pygame**
+🌱 I’m currently learning **ML and Pygame**
 
 📫 How to reach me **swapnil.rao1@gmail.com**
 
