@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🌱 I’m currently learning **DSA and Godot**
+🌱 I’m currently learning **DSA and NodeJS**
 
 📫 How to reach me **swapnil.rao1@gmail.com**
 
