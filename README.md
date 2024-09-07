@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swapnil+Rao!;" />
 </h1>
 
+[![An image of @swapnilrao619's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swapnilrao619)](https://holopin.io/@swapnilrao619)
+
 <h3 align="center">Undergrad from MSRIT exploring CS domains!</h3>
 
 <br/>
@@ -58,6 +60,11 @@
 
   <br/>
 </div>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwapnilRao619&bg_color=1d1c1f&color=ffffff&line=bcb9c4&point=ffffff&area=true&hide_border=false">
+  </a>
+</p>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -70,16 +77,32 @@
   <br/>
     <br/> 
   <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=swapnilrao619&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <br/>
+    <br/>
+     <br/>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwapnilRao619&theme=radical&border_radius=10&include_all_commits=true&count_private=true" width="500">
+  </a>
+    <br/>
+     <br/>
+     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwapnilRao619&theme=radical&include_all_commits=true&count_private=true" width="250">
+  </a>
+    <br/>
+     <br/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SwapnilRao619&theme=radical&include_all_commits=true&count_private=true" width="250">
+  </a>
+  <br/>
 </div>
 
 <br/><br/>
 
 <hr/>
 
-<br/>
-
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/swapnilrao1?theme=dark&font=Nanum%20Gothic&ext=heatmap" alt="LeetCode Stats" />
+</p>
 <div align="center">
 <a href='https://koncarne.bandcamp.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-
-<br/>
