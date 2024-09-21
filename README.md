@@ -12,7 +12,7 @@
 
 <div align="center">
  
-🌱 I’m currently learning **DSA and NodeJS**
+🌱 I’m currently learning **DSA and MERN stack**
 
 📫 How to reach me **swapnil.rao1@gmail.com**
 
