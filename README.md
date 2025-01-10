@@ -77,23 +77,6 @@
   <br/>
     <br/> 
   <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=swapnilrao619&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    <br/>
-    <br/>
-     <br/>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwapnilRao619&theme=radical&border_radius=10&include_all_commits=true&count_private=true" width="500">
-  </a>
-    <br/>
-     <br/>
-     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwapnilRao619&theme=radical&include_all_commits=true&count_private=true" width="250">
-  </a>
-    <br/>
-     <br/>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SwapnilRao619&theme=radical&include_all_commits=true&count_private=true" width="250">
-  </a>
-  <br/>
 </div>
 
 <br/><br/>
