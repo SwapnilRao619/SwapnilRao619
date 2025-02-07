@@ -16,7 +16,7 @@
 
 📫 How to reach me **swapnil.rao1@gmail.com**
 
-📄 My resume: [Swapnil Rao's Resume](https://drive.google.com/file/d/1u3V27bmIa9O180hEZ9Cs9iYinXL8mSkq/view?usp=sharing)
+📄 My resume: [Swapnil Rao's Resume](https://drive.google.com/file/d/1HM8RWcRPiwWM2bhwRq840NbqDIcukLEg/view?usp=sharing)
 
 ⚡ Fun fact **I also make and produce music**
 
